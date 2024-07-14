@@ -1,5 +1,5 @@
 ### `user_interface_design.md`
-```markdown
+
 # User Interface Design
 
 ## Overview
@@ -169,4 +169,3 @@ body {
 This document outlines the design of the user interface for the VBA Macro Documentation and Transformation Tool. By following these design principles and components, we aim to create an intuitive and user-friendly interface for our users.
 ```
 
-This `user_interface_design.md` file provides a detailed description of the user interface design, including the main components, design principles, HTML examples, and CSS for styling and responsiveness. Next, we can create the `setup_and_installation.md` file. Would you like to proceed with that?
