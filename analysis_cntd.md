@@ -1,9 +1,9 @@
 2. Control Flow Analysis
 Algorithm Steps:
-
 Traverse the AST to identify control structures (e.g., loops, conditionals).
 Create a control flow graph (CFG) representing the possible execution paths.
 Analyze the CFG to understand the code's control flow.
+CODE:
 class CFGNode:
     def __init__(self, statement):
         self.statement = statement
